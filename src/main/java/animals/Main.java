@@ -1,5 +1,4 @@
-import animals.Cat;
-import animals.Dog;
+package animals;
 
 public class Main {
 
