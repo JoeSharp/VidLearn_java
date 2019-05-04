@@ -28,11 +28,10 @@ public class MusicalScale {
 
     public static void main(String[] args) throws Exception {
         final MusicalScale majorScale = new MusicalScale(2, 2, 1, 2, 2, 2, 1);
+        final MusicalScale minorScale = new MusicalScale(2, 1, 2, 2, 1, 2, 2);
 
-        final List<String> dMajor = majorScale.generateScale("D");
-        System.out.println(String.format("D Major is %s", dMajor));
-
-        final List<String> fSharpMajor = majorScale.generateScale("F#/Gb");
-        System.out.println(String.format("F# Major is %s", fSharpMajor));
+        System.out.println(String.format("D Major is %s", majorScale.generateScale("D")));
+        System.out.println(String.format("F# Major is %s", majorScale.generateScale("F#/Gb")));
+        System.out.println(String.format("A Minor is %s", minorScale.generateScale("A")));
     }
 }
