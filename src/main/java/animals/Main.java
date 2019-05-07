@@ -1,15 +1,16 @@
 package animals;
 
+import java.util.stream.Stream;
+
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Demonstrating Abstract Classes");
+        System.out.println("Demonstrating Polymorphism");
 
+        Animal myAnimal = new Animal();
         Dog myDog = new Dog();
-        myDog.speak();
-
         Cat myCat = new Cat();
-        myCat.speak();
 
+        Stream.of(myAnimal, myDog, myCat).forEach(Animal::speak);
     }
 }

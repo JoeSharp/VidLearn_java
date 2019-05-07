@@ -4,7 +4,7 @@ public class GravitationalBody {
     private final String name;
     private final double mass;
 
-    public GravitationalBody(final String name,
+    GravitationalBody(final String name,
                              final double mass) {
         this.name = name;
         this.mass = mass;
