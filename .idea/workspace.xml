@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61f6be41-642a-4ff0-9ffe-c5d57d7cd133" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/aggregation/Class.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/aggregation/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/aggregation/Student.java" afterDir="false" />
@@ -19,6 +20,18 @@
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/shapes/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/shapes/Square.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/composition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/composition/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/composition/StarSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/composition/StarSystem.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/people/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/people/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/people/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/basic/MusicalScale.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/basic/MusicalScale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/animals/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/animals/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/composition/GravitationalBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/composition/GravitationalBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/composition/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/composition/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/composition/Star.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/composition/Star.java" afterDir="false" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -42,29 +55,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/composition/StarSystem.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/animals/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="357">
               <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#585#586#0" expanded="true" />
                 <element signature="e#606#607#0" expanded="true" />
+=======
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/composition/GravitationalBody.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/animals/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/composition/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/animals/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/composition/Planet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/aggregation/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -75,10 +135,30 @@
                 <element signature="e#162#163#0" expanded="true" />
                 <element signature="e#189#190#0" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/animals/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/composition/Star.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/aggregation/Student.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,6 +177,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/composition/StarSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,6 +192,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/aggregation/Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -112,6 +200,12 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/composition/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
             </state>
           </provider>
         </entry>
@@ -134,8 +228,6 @@
         <option value="$PROJECT_DIR$/src/main/java/animals/Dog.java" />
         <option value="$PROJECT_DIR$/src/main/java/animals/Cat.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/animals/Animal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/animals/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/basic/Main.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/basic/Greeter.java" />
@@ -144,6 +236,7 @@
         <option value="$PROJECT_DIR$/src/main/java/shapes/RegularPolygon.java" />
         <option value="$PROJECT_DIR$/src/main/java/shapes/Square.java" />
         <option value="$PROJECT_DIR$/src/main/java/shapes/Hexagon.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/composition/Planet.java" />
         <option value="$PROJECT_DIR$/src/main/java/composition/GravitationalBody.java" />
         <option value="$PROJECT_DIR$/src/main/java/composition/Star.java" />
@@ -156,6 +249,18 @@
         <option value="$PROJECT_DIR$/src/main/java/aggregation/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/aggregation/Class.java" />
         <option value="$PROJECT_DIR$/src/main/java/aggregation/Teacher.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/composition/StarSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/composition/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/people/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/people/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/people/Address.java" />
+        <option value="$PROJECT_DIR$/src/main/java/composition/Planet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/composition/GravitationalBody.java" />
+        <option value="$PROJECT_DIR$/src/main/java/composition/Star.java" />
+        <option value="$PROJECT_DIR$/src/main/java/animals/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/animals/Animal.java" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
       </list>
     </option>
   </component>
@@ -173,34 +278,46 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="VidLearn_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VidLearn_java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="VidLearn_java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VidLearn_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VidLearn_java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="VidLearn_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VidLearn_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VidLearn_java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="VidLearn_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="VidLearn_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VidLearn_java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="VidLearn_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VidLearn_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VidLearn_java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="VidLearn_java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="animals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VidLearn_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VidLearn_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -210,13 +327,16 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556864820218" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557106768375" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -235,13 +355,18 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Greeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.Greeter" />
-      <module name="com.ratracejoe.VidLearn_java.main" />
+=======
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shapes.Main" />
+      <module name="VidLearn_java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="shapes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +374,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shapes.Main" />
-      <module name="VidLearn_java.main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composition.Main" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
+      <module name="com.ratracejoe.VidLearn_java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="shapes.*" />
+          <option name="PATTERN" value="composition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="people.Main" />
+      <module name="com.ratracejoe.VidLearn_java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="people.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,6 +417,12 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="animals.Main" />
       <module name="com.ratracejoe.VidLearn_java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="animals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -297,11 +442,15 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Main (2)" />
+=======
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (3)" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.MusicalScale" />
-        <item itemvalue="Application.Greeter" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -319,9 +468,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="1124" y="19" width="1336" height="1024" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29153606" />
+=======
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -330,13 +486,17 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.26038158" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26024097" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
       <window_info anchor="bottom" id="Debug" order="3" weight="0.399757" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32884398" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32884398" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.3686747" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -352,36 +512,13 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/animals/Dog.java">
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/12.0.1-zulu/lib/src.zip!/java.base/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="192">
+          <caret line="649" column="8" selection-start-line="649" selection-start-column="8" selection-end-line="649" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/animals/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/animals/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/12.0.1-zulu/lib/src.zip!/java.base/java/util/List.java" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -391,8 +528,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/basic/Greeter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#110#111#0" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
@@ -400,17 +537,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/animals/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/basic/MusicalScale.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="225">
+          <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#379#380#0" expanded="true" />
@@ -462,6 +592,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/composition/Star.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -473,16 +604,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/composition/GravitationalBody.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/people/Address.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/people/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/people/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/composition/StarSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/composition/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/morse/MorseDigit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -492,10 +654,20 @@
             <element signature="e#143#144#0" expanded="true" />
             <element signature="e#158#159#0" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/animals/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/morse/MorseCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -520,12 +692,22 @@
             <element signature="imports" expanded="true" />
             <element signature="e#585#586#0" expanded="true" />
             <element signature="e#606#607#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/animals/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/composition/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/animals/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="357">
           <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
         </state>
@@ -572,6 +754,42 @@
             <element signature="e#85#86#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="75">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/animals/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/composition/GravitationalBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/composition/Planet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/composition/Star.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+>>>>>>> 8174f6a58eb17e1b1c390161436de33e5a2c0808
         </state>
       </provider>
     </entry>

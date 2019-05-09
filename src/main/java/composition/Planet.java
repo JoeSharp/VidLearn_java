@@ -3,7 +3,7 @@ package composition;
 public class Planet extends GravitationalBody {
     private final String colour;
 
-    public Planet(final String name,
+    Planet(final String name,
                   final double mass,
                   final String colour) {
         super(name, mass);
