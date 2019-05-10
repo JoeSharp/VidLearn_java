@@ -2,25 +2,23 @@ package composition;
 
 public class Main {
     public static void main(String[] args) {
-        final StarSystem solarSystem = new StarSystem(
-                new Star("The Sun", 333000,"Yellow Dwarf"),
-                new Planet("Mercury", 0.1, "grey"),
-                new Planet("Venus", 0.5, "orange"),
-                new Planet("Earth", 1, "blue"),
-                new Planet("Mars", 0.8, "red"),
-                new Planet("Jupiter", 2000, "brown"),
-                new Planet("Saturn", 1500, "yellow"),
-                new Planet("Uranus", 300, "lightblue"),
-                new Planet("Neptune", 200, "blue")
-        );
+        final StarSystem solarSystem = new StarSystem()
+                .with(new Star("The Sun", 333000,"Yellow Dwarf"))
+                .and(new Planet("Mercury", 0.1, "grey"))
+                .and(new Planet("Venus", 0.5, "orange"))
+                .and(new Planet("Earth", 1, "blue"))
+                .and(new Planet("Mars", 0.8, "red"))
+                .and(new Planet("Jupiter", 2000, "brown"))
+                .and(new Planet("Saturn", 1500, "yellow"))
+                .and(new Planet("Uranus", 300, "lightblue"))
+                .and(new Planet("Neptune", 200, "blue"));
 
-        final StarSystem starWars = new StarSystem(
-                new Star("Death Star", 23, "Super Laser"),
-                new Planet("Tatooine", 1, "sandy"),
-                new Planet("hoth", 34, "white")
-        );
+        final StarSystem alphaCenturai = new StarSystem()
+                .with(new Star("Rigil Kentaurus", 3004, "Yellow Dwarf"))
+                .and(new Star("Toliman", 2000, "Yellow Dwarf"))
+                .and(new Star("Proxima Centauri", 200, "red dwarf"));
 
         System.out.println(solarSystem);
-        System.out.println(starWars);
+        System.out.println(alphaCenturai);
     }
 }

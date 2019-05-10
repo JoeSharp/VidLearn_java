@@ -1,5 +1,7 @@
 package animals;
 
+import java.util.List;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Main {
@@ -11,6 +13,9 @@ public class Main {
         Dog myDog = new Dog();
         Cat myCat = new Cat();
 
-        Stream.of(myAnimal, myDog, myCat).forEach(Animal::speak);
+        List<Animal> animals = Stream.of(myAnimal, myDog, myCat)
+                .collect(Collectors.toList());
+
+        animals.forEach(Animal::speak);
     }
 }
