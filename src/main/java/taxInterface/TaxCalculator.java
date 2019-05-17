@@ -25,7 +25,7 @@ class TaxCalculator {
         return tax;
     }
 
-    protected List<TaxBand> getBands() {
+    List<TaxBand> getBands() {
         return bands;
     }
 }
