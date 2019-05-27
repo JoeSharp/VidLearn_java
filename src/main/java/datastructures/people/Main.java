@@ -7,7 +7,9 @@ public class Main {
         final String csvFilename = args[0];
         System.out.println(String.format("Reading People from %s", csvFilename));
 
-        try (BufferedReader r = new BufferedReader(new InputStreamReader(new FileInputStream(csvFilename)))) {
+        try (BufferedReader r = new BufferedReader(
+                new InputStreamReader(
+                        new FileInputStream(csvFilename)))) {
             String line;
             while ((line = r.readLine()) != null){
                 final Person person = Person.fromCsv(line);

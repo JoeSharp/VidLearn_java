@@ -5,7 +5,7 @@ class Person {
     private final Integer age;
     private final String favouriteColour;
 
-    Person(String name, Integer age, String favouriteColour) {
+    private Person(String name, Integer age, String favouriteColour) {
         this.name = name;
         this.age = age;
         this.favouriteColour = favouriteColour;
@@ -24,15 +24,15 @@ class Person {
         return new Person(name, age, favouriteColour);
     }
 
-    public String getName() {
+    String getName() {
         return name;
     }
 
-    public Integer getAge() {
+    Integer getAge() {
         return age;
     }
 
-    public String getFavouriteColour() {
+    String getFavouriteColour() {
         return favouriteColour;
     }
 }
